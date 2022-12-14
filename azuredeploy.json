@@ -19,15 +19,15 @@
         },
         "CosmosLocation": {
             "type": "string",
-            "defaultValue": "eastus"
+            "defaultValue": "westus2"
         },
         "CosmosLocationName": {
             "type": "string",
-            "defaultValue": "East US"
+            "defaultValue": "West US"
         },
         "CosmosPairedLocation": {
             "type": "string",
-            "defaultValue": "westus"
+            "defaultValue": "westus2"
         },
         "CosmosPairedLocationName": {
             "type": "string",
